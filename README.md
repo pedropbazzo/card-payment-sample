@@ -1,3 +1,4 @@
+
 # Card payment processing with Checkout API
 
 ### This is a simple example of how you can accept credit card payments by integrating our [Checkout API](https://developers.mercadopago.com/en/guides/payments/api/introduction)
